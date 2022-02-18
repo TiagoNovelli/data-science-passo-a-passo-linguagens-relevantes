@@ -1,5 +1,5 @@
 # TUORIAL BASICO DE LINGUAGENS FUNDAMENTAIS
-### Meu objetivo é um fia trabalhar com análise de dados e para isso priciso saber algumas linguagens:
+### Meu objetivo é um dia trabalhar com análise de dados e para isso priciso saber algumas linguagens:
  - Phyton
  - R
  - Java
