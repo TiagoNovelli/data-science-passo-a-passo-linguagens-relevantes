@@ -1,2 +1,12 @@
-# data-science-passo-a-passo-linguagens-relevantes
-Desafio da DIO com tutoriais básicos de linguagens fundamentais para minha futura carreira
+#TUORIAL BASICO DE LINGUAGENS FUNDAMENTAIS
+###Meu objetivo é um fia trabalhar com análise de dados e para isso priciso saber algumas linguagens:
+ - Phyton
+ - R
+ - Java
+
+###Linguagens de banco de dados:
+ - SQL
+ - MySQL
+ - MongoDb
+
+###Conforme for aprendendo vou adicionando alguns comandos básicos para me lembrar de como resolver alguns problemas.
